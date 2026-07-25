@@ -1,46 +1,44 @@
-# 💫 About Me:
+# ⚡ Welcome to my GitHub Profile!
 
-<!-- Typing Animation Effect -->
-<img src="https://demolab.com!++🚀" alt="Typing SVG" />
-
-🙌 I'm currently a Developer / Programmer.
-👍 Interested in Frontend and Backend Development.
-🌱 Currently working on improving my coding skills.
-
----
-
-### 🏆 GitHub Trophies
-<!-- Dynamic Trophies Room -->
-![Abhishek's Trophies](https://vercel.app)
+```text
+👋 Hi, I'm Abhishek Kumar!
+🚀 Frontend & Backend Developer
+💻 Continuous Learner & Tech Enthusiast
+```
 
 ---
 
-# 💻 Tech Stack:
-
-💻 **HTML5** &nbsp; 🎨 **CSS3** &nbsp; ⚡ **JavaScript** &nbsp; 📝 **Markdown** &nbsp; 🛠️ **Git** &nbsp; 🐙 **GitHub** &nbsp; 🚀 **VS Code**
-
----
-
-# 📊 GitHub Stats:
-
-### ✍️ Daily Dev Quote (Auto-Updates)
-![Dev Quotes](https://vercel.app)
-
-### 📈 Contribution Graph
-![Abhishek's Contribution Graph](https://vercel.app)
+### 💫 About Me:
+* 🙌 **Current Role:** Developer / Programmer.
+* 👍 **Interests:** Creating beautiful Frontend layouts and robust Backend systems.
+* 🌱 **Learning:** Actively polishing my coding skills and data structures.
 
 ---
 
-### 📬 Connect with me
-
-- 📧 **Email:** abhishekcamridge@gmail.com
-- 💼 **LinkedIn:** [abhishekkumar5595](https://linkedin.com)
+### 💬 Favorite Quote:
+> *"Talk is cheap. Show me the code."* — **Linus Torvalds**
 
 ---
 
-<!-- Profile Visitor Counter at the bottom -->
-<p align="center">
-  <img src="https://glitch.me" alt="Visitor Count" />
-</p>
+### 💻 Tech Stack & Skills:
 
+| Category | Tools & Languages |
+| :--- | :--- |
+| 🌐 **Languages** | `HTML5` &nbsp; `CSS3` &nbsp; `JavaScript` |
+| 🛠️ **Version Control** | `Git` &nbsp; `GitHub` |
+| 🚀 **IDE / Editors** | `VS Code` &nbsp; `Markdown` |
 
+---
+
+### 📊 Account Milestone Tracker:
+* 🏆 **Current Goal:** Build 10+ full-stack open-source projects this year!
+* 📈 **Activity Status:** Active contributor to repositories.
+
+---
+
+### 📬 Connect with me:
+* 📧 **Email:** abhishekcamridge@gmail.com
+* 💼 **LinkedIn:** [abhishekkumar5595](https://linkedin.com)
+
+---
+<p align="center">🤝 Thanks for visiting my profile! Keep coding. 🚀</p>

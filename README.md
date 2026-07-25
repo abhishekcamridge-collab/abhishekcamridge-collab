@@ -1,25 +1,34 @@
 # 🚀 Abhishek Kumar | Full-Stack Developer
 
-```text
-💡 "Turning lines of code into functional digital experiences."
-🌍 Based in India | Continuous Learner | Tech Enthusiast
-```
+<blockquote>
+  <font color="#f7df1e"><h3>💡 "Turning lines of code into functional digital experiences."</h3></font>
+  <font color="#38bdf8">🌍 Based in India | Continuous Learner | Tech Enthusiast</font>
+</blockquote>
 
 ---
 
-### 💫 About Me
-* 🎓 **What I Do:** Crafting clean frontend user interfaces and structuring robust backends.
-* 🛠️ **Current Focus:** Polishing advanced core programming skills, logic building, and optimisation.
-* 🤝 **Collaboration:** Open to participating in interesting open-source initiatives and creative web scripts.
+<fieldset>
+  <legend><h2><font color="#f7df1e">💫 About Me</font></h2></legend>
+  <ul>
+    <li>🙌 <b><font color="#38bdf8">What I Do:</font></b> Crafting clean frontend user interfaces and structuring robust backends.</li>
+    <li>🛠️ <b><font color="#38bdf8">Current Focus:</font></b> Polishing advanced core programming skills, logic building, and optimization.</li>
+    <li>🤝 <b><font color="#38bdf8">Collaboration:</font></b> Open to participating in interesting open-source initiatives and creative web scripts.</li>
+  </ul>
+</fieldset>
 
 ---
 
-### 💬 Coding Philosophy
-> *"Programs must be written for people to read, and only incidentally for machines to execute."* — **Abelson & Sussman**
+<fieldset>
+  <legend><h2><font color="#ec4899">💬 Coding Philosophy</font></h2></legend>
+  <blockquote>
+    <i><font color="#a78bfa">"Programs must be written for people to read, and only incidentally for machines to execute."</font></i> — <b>Abelson & Sussman</b>
+  </blockquote>
+</fieldset>
 
 ---
 
-### 💻 Technical Expertise & Tools
+<fieldset>
+  <legend><h2><font color="#10b981">💻 Technical Expertise & Tools</font></h2></legend>
 
 ```json
 {
@@ -28,21 +37,30 @@
   "Development Tools": ["VS Code", "Markdown Editor", "Chrome DevTools"]
 }
 ```
+</fieldset>
 
 ---
 
-### 📊 Current Growth Milestones
-- [x] Complete a fully responsive customised GitHub profile README
-- [x] Build and deploy a real-time web application to GitHub Pages
-- [ ] Master advanced data structures and algorithms in JavaScript
-- [ ] Create 5+ independent multi-page open-source projects
+<fieldset>
+  <legend><h2><font color="#f59e0b">📊 Current Growth Milestones</font></h2></legend>
+  <ul>
+    <li>🟩 <b>Complete a fully responsive customized GitHub profile README</b></li>
+    <li>🟩 <b>Build and deploy a real-time web application to GitHub Pages</b></li>
+    <li>🟨 Master advanced data structures and algorithms in JavaScript</li>
+    <li>🟨 Create 5+ independent multi-page open-source projects</li>
+  </ul>
+</fieldset>
 
 ---
 
-### 📬 Let's Connect & Innovate
-* 📧 **Professional Inquiries:** abhishekcamridge@gmail.com
-* 💼 **LinkedIn Networking:** [abhishekkumar5595](https://linkedin.com)
-* 🐦 **X (Twitter) Feed:** [@Abhishe43867821](https://x.com)
+<fieldset>
+  <legend><h2><font color="#3b82f6">📬 Let's Connect & Innovate</font></h2></legend>
+  <ul>
+    <li>📧 <b>Email:</b> abhishekcamridge@gmail.com</li>
+    <li>💼 <b>LinkedIn:</b> <a href="https://linkedin.com">abhishekkumar5595</a></li>
+    <li>🐦 <b>X (Twitter):</b> <a href="https://x.com">@Abhishe43867821</a></li>
+  </ul>
+</fieldset>
 
 ---
-<p align="center">🌟 <i>Built for reliability and style. Thank you for exploring my digital workspace!</i> 🌟</p>
+<p align="center">🌟 <i><font color="#f7df1e">Built for reliability and style. Thank you for exploring my digital workspace!</font></i> 🌟</p>

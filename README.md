@@ -1,16 +1,26 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**abhishekcamridge-collab/abhishekcamridge-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙌 I'm currently a Developer / Programmer.
+👍 Interested in Frontend and Backend Development.
+🌱 Currently working on improving my coding skills.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **HTML5** &nbsp; 🎨 **CSS3** &nbsp; ⚡ **JavaScript** &nbsp; 📝 **Markdown** &nbsp; 🛠️ **Git** &nbsp; 🐙 **GitHub** &nbsp; 🚀 **VS Code**
+
+# 📊 GitHub Stats:
+
+### ✍ Random Dev Quote
+![Readme Quotes](https://vercel.app)
+
+### 🔝 Top Contributed Repo
+![Abhishek's GitHub Stats](https://vercel.app)
+
+![Top Languages](https://vercel.app)
+
+---
+
+### 📬 Connect with me
+
+- 📧 **Email:** abhishekcamridge@gmail.com
+- 💼 **LinkedIn:** [abhishekkumar5595](https://linkedin.com)

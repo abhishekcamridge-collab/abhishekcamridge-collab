@@ -1,9 +1,10 @@
 # ⚡ Welcome to my GitHub Profile!
 
-<!-- Animated Typing Effect -->
-<p align="left">
-  <img src="https://demolab.com!++🚀" alt="Typing SVG" />
-</p>
+```text
+👋 Hi, I'm Abhishek Kumar!
+🚀 Frontend & Backend Developer
+💻 Continuous Learner & Tech Enthusiast
+```
 
 ---
 
@@ -14,7 +15,7 @@
 
 ---
 
-### 💬 Favourite Quote:
+### 💬 Favorite Quote:
 > *"Talk is cheap. Show me the code."* — **Linus Torvalds**
 
 ---
@@ -29,20 +30,11 @@
 
 ---
 
-### 📊 GitHub Activity Analysis:
-<!-- Dynamic Activity Wave Graph -->
-![Abhishek's Activity Graph](https://vercel.app)
-
----
-
 ### 📬 Connect with me:
-<!-- Colourful Official Tech Badges -->
-<a href="mailto:abhishekcamridge@gmail.com" target="_blank">
-  <img src="https://shields.io" alt="Gmail" />
-</a> &nbsp;
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
-</a>
+
+* 📧 **Email:** abhishekcamridge@gmail.com
+* 💼 **LinkedIn:** [abhishekkumar5595](https://linkedin.com)
+* 🐦 **X (Twitter):** [@Abhishe43867821](https://x.com)
 
 ---
 <p align="center">🤝 Thanks for visiting my profile! Keep coding. 🚀</p>

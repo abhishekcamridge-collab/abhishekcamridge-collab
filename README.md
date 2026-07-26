@@ -1,27 +1,24 @@
 # 🚀 Abhishek Kumar | Full-Stack Developer
-
 ### 💡 "Turning lines of code into functional digital experiences."
-
-🌍 Based in India | Continuous Learner | Tech Enthusiast
 
 ## 💫 About Me
 - 🙌 **What I Do:** Crafting clean frontend user interfaces and structuring robust backends.
-- 🛠 **Current Focus:** Polishing advanced core programming skills and optimisation.
-- 🤝 **Collaboration:** Open to creative web scripts.
+- 🛠 **Current Focus:** Polishing advanced core programming skills and optimization.
 
-## 💻 Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript
-- **Tools:** Git, GitHub, VS Code
+## 💻 Tech Stack & Tools
+<p>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-## 📊 Growth Milestones
-- 🟩 **Responsive Profile README**
-- 🟩 **[Voice Notes App](https://github.io)**
-- 🟨 Advanced Algorithms
-- 🟨 Open-source Projects
+## 📊 Growth Milestones & Analytics
+- 🟩 **[Live Voice Notes App On GitHub Pages](https://github.io)**
+<br/><br/>
+<img src="https://vercel.app" />
 
-## 📬 Connect With Me
+## 📬 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com)
 - 🐦 [Twitter](https://x.com)
 - 📧 abhishekcamridge@gmail.com
-
----

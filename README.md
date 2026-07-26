@@ -1,16 +1,21 @@
 # 🚀 Abhishek Kumar | Full-Stack Developer
 
-[... GitHub Profile Content ...]
+### 💡 "Turning lines of code into functional digital experiences."
 
-## 🛠️ Tech Stack & Tools
+🌍 Based in India | Continuous Learner | Tech Enthusiast
+
+## 💫 About Me
+- 🙌 **What I Do:** Crafting clean frontend UIs & robust backends.
+- 🛠 **Current Focus:** Polishing core programming, logic, and optimization.
+
+## 💻 Technical Expertise
 ![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 ![JS](https://shields.io)
-![Git](https://shields.io)
 
-## 📊 Analytics & Projects
-![Stats](https://vercel.app)
-- 🌐 [Live Projects](https://github.io)
+## 📊 Projects & Stats
+- 🟩 [Live Voice Notes App](https://github.io)
+- ![Stats](https://vercel.app)
 
-## 📬 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com)
-- 🐦 [Twitter](https://x.com)
+## 📬 Connect
+- 💼 LinkedIn: [abhishekkumar5595](https://linkedin.com)
